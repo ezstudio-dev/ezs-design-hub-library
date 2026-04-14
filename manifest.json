@@ -1,9 +1,9 @@
 {
-  "version": "2.0.5",
-  "lastUpdated": "2026-02-15T19:07:51Z",
-  "totalFiles": 342,
-  "totalSize": "448.77MB",
-  "totalSizeBytes": 470573109,
+  "version": "2.3.1",
+  "lastUpdated": "2026-04-14T14:37:43Z",
+  "totalFiles": 338,
+  "totalSize": "425.61MB",
+  "totalSizeBytes": 446289256,
   "categories": [
     {
       "name": "1. Kitchen",
@@ -15,19 +15,19 @@
           "name": "1. Base Cabinet",
           "path": "1. Kitchen/1. Base Cabinet",
           "fileCount": 18,
-          "lastModified": "2026-02-16"
+          "lastModified": "2026-02-26"
         },
         {
           "name": "2. Upper Cabinet",
           "path": "1. Kitchen/2. Upper Cabinet",
           "fileCount": 19,
-          "lastModified": "2026-02-16"
+          "lastModified": "2026-02-26"
         },
         {
           "name": "3. High Cabinet",
           "path": "1. Kitchen/3. High Cabinet",
           "fileCount": 13,
-          "lastModified": "2026-02-16"
+          "lastModified": "2026-02-26"
         },
         {
           "name": "4. Materials",
@@ -168,15 +168,9 @@
     {
       "name": "3. Fit out",
       "path": "3. Fit out",
-      "fileCount": 104,
-      "lastModified": "2026-01-22",
+      "fileCount": 100,
+      "lastModified": "2026-04-14",
       "categories": [
-        {
-          "name": "3D-Bathroom",
-          "path": "3. Fit out/3D-Bathroom",
-          "fileCount": 2,
-          "lastModified": "2026-01-21"
-        },
         {
           "name": "Air-conditioner",
           "path": "3. Fit out/Air-conditioner",
@@ -211,15 +205,7 @@
           "name": "Fences",
           "path": "3. Fit out/Fences",
           "fileCount": 7,
-          "lastModified": "2026-01-17",
-          "categories": [
-            {
-              "name": "Fences",
-              "path": "3. Fit out/Fences/Fences",
-              "fileCount": 7,
-              "lastModified": "2026-01-21"
-            }
-          ]
+          "lastModified": "2026-04-14"
         },
         {
           "name": "Glass Door",
@@ -248,8 +234,8 @@
         {
           "name": "Wall",
           "path": "3. Fit out/Wall",
-          "fileCount": 9,
-          "lastModified": "2026-01-21"
+          "fileCount": 7,
+          "lastModified": "2026-04-14"
         }
       ]
     },
@@ -291,450 +277,450 @@
       "path": "1. Kitchen/1. Base Cabinet/Base Appliance - Tu san thiet bi.skp",
       "name": "Base Appliance - Tu san thiet bi",
       "type": "component",
-      "hash": "6ce2d016611ce8b14967f52b56b5dd0e",
-      "size": 1422098,
-      "modified": "2026-02-16",
+      "hash": "925680df568269e50d7f73c12838c00b",
+      "size": 1421631,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Appliance - Tu san thiet bi.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Corner - Tu san goc.skp",
       "name": "Base Corner - Tu san goc",
       "type": "component",
-      "hash": "4d2c51716e16ef148765b65c3801f6e1",
-      "size": 1928218,
-      "modified": "2026-02-16",
+      "hash": "9926fa1e39af91bf18810cf5d2925a05",
+      "size": 1935295,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Corner - Tu san goc.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Door - Tu san canh mo.skp",
       "name": "Base Door - Tu san canh mo",
       "type": "component",
-      "hash": "6c2d6a646a84aace3f5f81f3f749ca21",
-      "size": 872010,
-      "modified": "2026-02-16",
+      "hash": "7053c42d099e953a7a5449fcf21d0663",
+      "size": 878806,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Door - Tu san canh mo.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Drawer Double - Mat ngan keo doi.skp",
       "name": "Base Drawer Double - Mat ngan keo doi",
       "type": "component",
-      "hash": "7881f641bf0ac0eda4622de92a9b3619",
-      "size": 870348,
-      "modified": "2026-02-16",
+      "hash": "96c78bc8fa957658c906e35f54a86ce4",
+      "size": 870733,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Drawer Double - Mat ngan keo doi.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Drawer Single - Tu san ngan keo don.skp",
       "name": "Base Drawer Single - Tu san ngan keo don",
       "type": "component",
-      "hash": "b58e8e0555ce503adacc046387705f7b",
-      "size": 972493,
-      "modified": "2026-02-16",
+      "hash": "6b57690483869069436976409aadbecf",
+      "size": 976817,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Drawer Single - Tu san ngan keo don.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Drawer Triple - Tu san ngan keo ba.skp",
       "name": "Base Drawer Triple - Tu san ngan keo ba",
       "type": "component",
-      "hash": "a096c51d2ad50ab4dbe80bdfb8d8e001",
-      "size": 823270,
-      "modified": "2026-02-16",
+      "hash": "5a0122752226649f2616bac0a0349a78",
+      "size": 826374,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Drawer Triple - Tu san ngan keo ba.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Filler - Tu san nep.skp",
       "name": "Base Filler - Tu san nep",
       "type": "component",
-      "hash": "78318f71aa7a91cba9c4ab34ad0e085e",
-      "size": 182790,
-      "modified": "2026-02-16",
+      "hash": "5629d1696c8ef4e0a3521f4fb1d40707",
+      "size": 183214,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Filler - Tu san nep.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Glass Door - Tu san canh nhom kinh.skp",
       "name": "Base Glass Door - Tu san canh nhom kinh",
       "type": "component",
-      "hash": "70fad8d0c3cbb74518cbec65e05d6ca9",
-      "size": 940783,
-      "modified": "2026-02-16",
+      "hash": "a2186d97aac3de1bfaeca89e90b013d2",
+      "size": 939111,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Glass Door - Tu san canh nhom kinh.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Hob Drawer Double - Tu san bep ngan keo doi.skp",
       "name": "Base Hob Drawer Double - Tu san bep ngan keo doi",
       "type": "component",
-      "hash": "5d7d656ab6de4c7aa3c73d6e59badf92",
-      "size": 1663633,
-      "modified": "2026-02-16",
+      "hash": "73bdd596aaa733719d51c7af3e384bd5",
+      "size": 1666466,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Hob Drawer Double - Tu san bep ngan keo doi.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Hob Drawer Triple - Tu san bep ngan keo ba.skp",
       "name": "Base Hob Drawer Triple - Tu san bep ngan keo ba",
       "type": "component",
-      "hash": "375695034bff2a58173c7fdde57cb1ca",
-      "size": 1652116,
-      "modified": "2026-02-16",
+      "hash": "19fb9bd50b0df34db411a896c1ad7f12",
+      "size": 1656330,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Hob Drawer Triple - Tu san bep ngan keo ba.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Hob Vertical Door - Tu san bep canh mo.skp",
       "name": "Base Hob Vertical Door - Tu san bep canh mo",
       "type": "component",
-      "hash": "c8e81379b4b4a23d4dc161d2a8166fd7",
-      "size": 1880362,
-      "modified": "2026-02-16",
+      "hash": "a162f2572166d1712c5011f47e4a0348",
+      "size": 1890214,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Hob Vertical Door - Tu san bep canh mo.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Narrow Drawer - Tu san ngan keo hep.skp",
       "name": "Base Narrow Drawer - Tu san ngan keo hep",
       "type": "component",
-      "hash": "9c94574480882166ccfb2e523ef7a530",
-      "size": 972448,
-      "modified": "2026-02-16",
+      "hash": "5f08f8c6eacc5dda1689fcce4f13e7bb",
+      "size": 976240,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Narrow Drawer - Tu san ngan keo hep.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Sink Door - Tu san chau rua canh mo.skp",
       "name": "Base Sink Door - Tu san chau rua canh mo",
       "type": "component",
-      "hash": "1f90e31616e1a3a91736d906da6d358f",
-      "size": 4412683,
-      "modified": "2026-02-16",
+      "hash": "075cd5931cfb353148d7d329fe22c41c",
+      "size": 4418992,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Sink Door - Tu san chau rua canh mo.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Sink Horizontal Drawer - Tu san chau rua ngan keo doc.skp",
       "name": "Base Sink Horizontal Drawer - Tu san chau rua ngan keo doc",
       "type": "component",
-      "hash": "1e67a03d9445e9b7b4ee0e371486dfd1",
-      "size": 3874124,
-      "modified": "2026-02-16",
+      "hash": "29dcc467b06b8f4221d55dad495984c3",
+      "size": 3873854,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Sink Horizontal Drawer - Tu san chau rua ngan keo doc.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Sink Horizontal Drawer.skp",
       "name": "Base Sink Horizontal Drawer",
       "type": "component",
-      "hash": "abf10ecd9743b749d8e6ebebedacdcfb",
-      "size": 3874044,
-      "modified": "2026-02-16",
+      "hash": "8d013221b5b471b4128a86d0e0cc5c05",
+      "size": 3873803,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Sink Horizontal Drawer.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Sink Vertical Door - Tu san chau rua canh mo.skp",
       "name": "Base Sink Vertical Door - Tu san chau rua canh mo",
       "type": "component",
-      "hash": "caf2d5b9f0a5ce4b027e867befaac1f9",
-      "size": 4032473,
-      "modified": "2026-02-16",
+      "hash": "9fc31f3c5d2211ede527bfcdd3890ad1",
+      "size": 4036331,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Sink Vertical Door - Tu san chau rua canh mo.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Sink Vertical Door.skp",
       "name": "Base Sink Vertical Door",
       "type": "component",
-      "hash": "dc755cadf8d87034bc50c3cb9560ef56",
-      "size": 4032491,
-      "modified": "2026-02-16",
+      "hash": "b1b92e441364facf9dfd17fb32229e3a",
+      "size": 4036375,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Sink Vertical Door.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Stone - Mat da.skp",
       "name": "Stone - Mat da",
       "type": "component",
-      "hash": "6d8f0b7df2677f1ea991897c89deb532",
-      "size": 121981,
-      "modified": "2026-02-16",
+      "hash": "81a042573504c20a1bd186df81f6e144",
+      "size": 121985,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Stone - Mat da.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Mouding - Phao tu treo.skp",
       "name": "Mouding - Phao tu treo",
       "type": "component",
-      "hash": "e5e81231a40d4e8043bad45606e2e79e",
-      "size": 188223,
-      "modified": "2026-02-16",
+      "hash": "ebaf92da0ab5a7d40464e67d144529fa",
+      "size": 188686,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Mouding - Phao tu treo.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Corner - Tu treo goc canh mo.skp",
       "name": "Upper Corner - Tu treo goc canh mo",
       "type": "component",
-      "hash": "46cf9c6e976897acb00c3141e5cee86e",
-      "size": 890494,
-      "modified": "2026-02-16",
+      "hash": "803d5aedc5d2893007fd1ba55d409e54",
+      "size": 893812,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Corner - Tu treo goc canh mo.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Corner Extra - Tu treo goc mo rong.skp",
       "name": "Upper Corner Extra - Tu treo goc mo rong",
       "type": "component",
-      "hash": "0b0273c155310099241c576d60007cf4",
-      "size": 885639,
-      "modified": "2026-02-16",
+      "hash": "86269daf9708b1dad5072614e48bfd39",
+      "size": 889950,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Corner Extra - Tu treo goc mo rong.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Corner Open - Tu treo goc trang tri.skp",
       "name": "Upper Corner Open - Tu treo goc trang tri",
       "type": "component",
-      "hash": "00200b963971271d2abd06c995a83a55",
-      "size": 373697,
-      "modified": "2026-02-16",
+      "hash": "1fd7b4b9c3b2e4cb7704d5b996bf9cdb",
+      "size": 372484,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Corner Open - Tu treo goc trang tri.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Door - Tu treo canh mo.skp",
       "name": "Upper Door - Tu treo canh mo",
       "type": "component",
-      "hash": "afe4f76cf2c04ca95cd411d73a05473d",
-      "size": 867305,
-      "modified": "2026-02-16",
+      "hash": "b9592a546c40e964554cff18f15eb47d",
+      "size": 865401,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Door - Tu treo canh mo.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Door Dish Rack - Tu treo ke up chen canh mo.skp",
       "name": "Upper Door Dish Rack - Tu treo ke up chen canh mo",
       "type": "component",
-      "hash": "4ab48172f9d68739a6efb1fafe65edc5",
-      "size": 6249252,
-      "modified": "2026-02-16",
+      "hash": "ff83bc93830153be4d9beaf43d72b996",
+      "size": 6257306,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Door Dish Rack - Tu treo ke up chen canh mo.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Door Display - Tu treo trang tri.skp",
       "name": "Upper Door Display - Tu treo trang tri",
       "type": "component",
-      "hash": "820ac5e45b3de12855d506341e2426b8",
-      "size": 673147,
-      "modified": "2026-02-16",
+      "hash": "d5fa08b2aa6a07b7506baed9d56c1087",
+      "size": 670909,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Door Display - Tu treo trang tri.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Door Hood - Tu treo may hut mui canh mo.skp",
       "name": "Upper Door Hood - Tu treo may hut mui canh mo",
       "type": "component",
-      "hash": "6dcb90b9e5afac422bb9e5fdd6b939d8",
-      "size": 1027653,
-      "modified": "2026-02-16",
+      "hash": "aba334955d034dac875eb73bba55f16f",
+      "size": 1027130,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Door Hood - Tu treo may hut mui canh mo.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper End Panel - Tam op tu treo.skp",
       "name": "Upper End Panel - Tam op tu treo",
       "type": "component",
-      "hash": "91dce953131b6334dafb393c75c488db",
-      "size": 265792,
-      "modified": "2026-02-16",
+      "hash": "81009f370ff9204098770d926c7f4f43",
+      "size": 265878,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper End Panel - Tam op tu treo.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Extra - Tu treo mo rong.skp",
       "name": "Upper Extra - Tu treo mo rong",
       "type": "component",
-      "hash": "8f79286e90f07aa2bb6cd8802db0e8b1",
-      "size": 858940,
-      "modified": "2026-02-16",
+      "hash": "b96fa3dc490a7c5796a2a374fdc956bf",
+      "size": 856605,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Extra - Tu treo mo rong.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Extra Glass Door - Tu treo mo rong canh kinh.skp",
       "name": "Upper Extra Glass Door - Tu treo mo rong canh kinh",
       "type": "component",
-      "hash": "2529626025a97ad0e6c5c055f17d65d8",
-      "size": 673559,
-      "modified": "2026-02-16",
+      "hash": "2946cf446823c5a9172e62090a04a5ea",
+      "size": 671202,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Extra Glass Door - Tu treo mo rong canh kinh.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Filler - Nep tu treo.skp",
       "name": "Upper Filler - Nep tu treo",
       "type": "component",
-      "hash": "2d2ec9288c4b6dfdc64181c631d72a2c",
-      "size": 186146,
-      "modified": "2026-02-16",
+      "hash": "d97d51fb30c25aa24831b252562b74ab",
+      "size": 186594,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Filler - Nep tu treo.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Glass Door - Tu treo canh kinh.skp",
       "name": "Upper Glass Door - Tu treo canh kinh",
       "type": "component",
-      "hash": "b50e65b22425c04f93b05894dc7a4162",
-      "size": 737329,
-      "modified": "2026-02-16",
+      "hash": "b0bd477db46f09a331c77c0e6f18262f",
+      "size": 737001,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Glass Door - Tu treo canh kinh.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift - Tu treo tay nang don.skp",
       "name": "Upper Lift - Tu treo tay nang don",
       "type": "component",
-      "hash": "443d4566087e69e3b1069630d511c990",
-      "size": 6041640,
-      "modified": "2026-02-16",
+      "hash": "e4f9e350083f2b039a31ffbbad3347a9",
+      "size": 6053056,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Lift - Tu treo tay nang don.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Double - Tu treo tay nang doi.skp",
       "name": "Upper Lift Double - Tu treo tay nang doi",
       "type": "component",
-      "hash": "292fae1dec26a19a766a844ce6aea943",
-      "size": 712880,
-      "modified": "2026-02-16",
+      "hash": "ca37e93ca713383be1a1ea46fe7ef27a",
+      "size": 711578,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Lift Double - Tu treo tay nang doi.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Double Dish Rack - Tu treo ke up chen tay nang doi.skp",
       "name": "Upper Lift Double Dish Rack - Tu treo ke up chen tay nang doi",
       "type": "component",
-      "hash": "cf1cae97c8f4b4951916d6a33004c500",
-      "size": 6090953,
-      "modified": "2026-02-16",
+      "hash": "190bc5750e8a813355974f2ae9e674e0",
+      "size": 6106824,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Lift Double Dish Rack - Tu treo ke up chen tay nang doi.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Double Hood - Tu treo may hut mui tay nang doi.skp",
       "name": "Upper Lift Double Hood - Tu treo may hut mui tay nang doi",
       "type": "component",
-      "hash": "d0968096d2ef90f3671618b44eacb4d1",
-      "size": 948967,
-      "modified": "2026-02-16",
+      "hash": "7176c17182ff7b4d33c13b78a195cccd",
+      "size": 949906,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Lift Double Hood - Tu treo may hut mui tay nang doi.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Glass Door - Tu treo tay nang don canh kinh.skp",
       "name": "Upper Lift Glass Door - Tu treo tay nang don canh kinh",
       "type": "component",
-      "hash": "6801b2aea8901d597fbc8196723c1c0c",
-      "size": 5744003,
-      "modified": "2026-02-16",
+      "hash": "6f474947785f1c9f4e131cbd14ccbb1b",
+      "size": 5754904,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Lift Glass Door - Tu treo tay nang don canh kinh.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Open - Tu treo trang tri.skp",
       "name": "Upper Open - Tu treo trang tri",
       "type": "component",
-      "hash": "c2cedbe122bef88d0b3175db4f63386a",
-      "size": 538118,
-      "modified": "2026-02-16",
+      "hash": "4e4f63ea33b3647f7c5db584bd1c5a61",
+      "size": 538576,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Open - Tu treo trang tri.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/High Corner - Tu cao goc.skp",
       "name": "High Corner - Tu cao goc",
       "type": "component",
-      "hash": "853bca2e85c976ae7b7c3913ca62c1e3",
-      "size": 1958575,
-      "modified": "2026-02-16",
+      "hash": "fec5ab17624e567fca6240159410c0f7",
+      "size": 1959247,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Corner - Tu cao goc.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/High Display - Tu cao trang tri.skp",
       "name": "High Display - Tu cao trang tri",
       "type": "component",
-      "hash": "2a51002accb27eaaf9ade8059d363f43",
-      "size": 1274630,
-      "modified": "2026-02-16",
+      "hash": "74a79fda72b9c92e479dfc1ca84a282b",
+      "size": 1274108,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Display - Tu cao trang tri.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/High Door - Tu cao canh mo.skp",
       "name": "High Door - Tu cao canh mo",
       "type": "component",
-      "hash": "49fb84eaca0191eb244a35740af642eb",
-      "size": 1342278,
-      "modified": "2026-02-16",
+      "hash": "bfed6200c2dfcb8b3248798c30931e20",
+      "size": 1331714,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Door - Tu cao canh mo.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/High Doupble Appliance - Tu cao thiet bi doi.skp",
       "name": "High Doupble Appliance - Tu cao thiet bi doi",
       "type": "component",
-      "hash": "b9b6a7f6e010cc7d16fa6a9638b2b737",
-      "size": 1835968,
-      "modified": "2026-02-16",
+      "hash": "78a1340a0747f0f9a5c3d12b0b1c558a",
+      "size": 1839173,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Doupble Appliance - Tu cao thiet bi doi.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/High Drawer - Tu cao ngan keo.skp",
       "name": "High Drawer - Tu cao ngan keo",
       "type": "component",
-      "hash": "8e299c7a289a23495f6e0b18f667f933",
-      "size": 1043667,
-      "modified": "2026-02-16",
+      "hash": "e1eeb3ddef5627247d1705d4d2938132",
+      "size": 1046171,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Drawer - Tu cao ngan keo.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/High Extra - Tu cao mo rong.skp",
       "name": "High Extra - Tu cao mo rong",
       "type": "component",
-      "hash": "cfc0d52f23b00f68bf26fd08dc95bef9",
-      "size": 858941,
-      "modified": "2026-02-16",
+      "hash": "8cc56909884f05842daa31f1ff4aa393",
+      "size": 856605,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Extra - Tu cao mo rong.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/High Open - Tu cao ngan trong.skp",
       "name": "High Open - Tu cao ngan trong",
       "type": "component",
-      "hash": "c24102d86662e8b1377f724514813f69",
-      "size": 711071,
-      "modified": "2026-02-16",
+      "hash": "2025ecf029fbc8620e6dd5653fcae1e8",
+      "size": 712837,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Open - Tu cao ngan trong.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/High Panel - Tam op tu cao.skp",
       "name": "High Panel - Tam op tu cao",
       "type": "component",
-      "hash": "515d2667c33d115043cd84a470159e27",
-      "size": 265550,
-      "modified": "2026-02-16",
+      "hash": "80fdc2db919a125a3055ead17ef74dd1",
+      "size": 265413,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Panel - Tam op tu cao.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/High Single Appliance - Tu cao thiet bi don.skp",
       "name": "High Single Appliance - Tu cao thiet bi don",
       "type": "component",
-      "hash": "69c36abe6b39d890b4466e913c4a6461",
-      "size": 1958348,
-      "modified": "2026-02-16",
+      "hash": "22e3294e55eda60339b98e15a271d190",
+      "size": 1961258,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Single Appliance - Tu cao thiet bi don.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/Mouding - Phao tu cao.skp",
       "name": "Mouding - Phao tu cao",
       "type": "component",
-      "hash": "3fe39a6d04a46e47784e3f08ae3a75b4",
-      "size": 187793,
-      "modified": "2026-02-16",
+      "hash": "da7ce19ef583153c889114fb57f64630",
+      "size": 188243,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/Mouding - Phao tu cao.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/Refrigerator - Tu cao tu lanh.skp",
       "name": "Refrigerator - Tu cao tu lanh",
       "type": "component",
-      "hash": "a2fcf491aa0d5cfce0847d574f1b7b1b",
-      "size": 1364690,
-      "modified": "2026-02-16",
+      "hash": "c298e4cb476d074ce96345a65b72ca7b",
+      "size": 1360793,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/Refrigerator - Tu cao tu lanh.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/Refrigerator Built In - Tu cao tu lanh am.skp",
       "name": "Refrigerator Built In - Tu cao tu lanh am",
       "type": "component",
-      "hash": "4d224c71ed883420b5043073aa83dfbb",
-      "size": 1258017,
-      "modified": "2026-02-16",
+      "hash": "94312a57c42ccdd4067968fe7c3a2722",
+      "size": 1252899,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/Refrigerator Built In - Tu cao tu lanh am.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/Upper Extra Glass Door - Tu cao mo rong canh kinh.skp",
       "name": "Upper Extra Glass Door - Tu cao mo rong canh kinh",
       "type": "component",
-      "hash": "07df1d09a55d936d092e53fe93832db6",
-      "size": 673537,
-      "modified": "2026-02-16",
+      "hash": "b19d0cbcc49a43ef3967579904164437",
+      "size": 671187,
+      "modified": "2026-02-26",
       "thumbnail": "1. Kitchen/3. High Cabinet/Upper Extra Glass Door - Tu cao mo rong canh kinh.png"
     },
     {
@@ -2294,22 +2280,6 @@
       "modified": "2026-01-22"
     },
     {
-      "path": "3. Fit out/3D-Bathroom/Combo bathroom-1.skp",
-      "name": "Combo bathroom-1",
-      "type": "component",
-      "hash": "02821a9848fd75c569a16fcdf6ddb3d6",
-      "size": 12185776,
-      "modified": "2026-01-22"
-    },
-    {
-      "path": "3. Fit out/3D-Bathroom/Combo bathroom-2.skp",
-      "name": "Combo bathroom-2",
-      "type": "component",
-      "hash": "3e8fe2f13464625e69165baeb42a3190",
-      "size": 12164859,
-      "modified": "2026-01-22"
-    },
-    {
       "path": "3. Fit out/Air-conditioner/Cassett-1 fan.skp",
       "name": "Cassett-1 fan",
       "type": "component",
@@ -2502,7 +2472,7 @@
       "modified": "2026-01-22"
     },
     {
-      "path": "3. Fit out/Fences/Fences/Fences_FREE_001.skp",
+      "path": "3. Fit out/Fences/Fences_FREE_001.skp",
       "name": "Fences_FREE_001",
       "type": "component",
       "hash": "21e780c7d09065dfe5acf527654580ce",
@@ -2510,7 +2480,7 @@
       "modified": "2026-01-22"
     },
     {
-      "path": "3. Fit out/Fences/Fences/Fences_FREE_002.skp",
+      "path": "3. Fit out/Fences/Fences_FREE_002.skp",
       "name": "Fences_FREE_002",
       "type": "component",
       "hash": "05fb28dd08d663305ba494d0f1127817",
@@ -2518,7 +2488,7 @@
       "modified": "2026-01-22"
     },
     {
-      "path": "3. Fit out/Fences/Fences/Fences_FREE_003.skp",
+      "path": "3. Fit out/Fences/Fences_FREE_003.skp",
       "name": "Fences_FREE_003",
       "type": "component",
       "hash": "b7fb9ea1f9d68631f96df9d809e6be4d",
@@ -2526,7 +2496,7 @@
       "modified": "2026-01-22"
     },
     {
-      "path": "3. Fit out/Fences/Fences/Fences_FREE_004.skp",
+      "path": "3. Fit out/Fences/Fences_FREE_004.skp",
       "name": "Fences_FREE_004",
       "type": "component",
       "hash": "4561e3e56b3da2ed7874524a2905dbaa",
@@ -2534,7 +2504,7 @@
       "modified": "2026-01-22"
     },
     {
-      "path": "3. Fit out/Fences/Fences/Gate_FREE_002.skp",
+      "path": "3. Fit out/Fences/Gate_FREE_002.skp",
       "name": "Gate_FREE_002",
       "type": "component",
       "hash": "096fb060c2932047f808220c168b0ae8",
@@ -2542,7 +2512,7 @@
       "modified": "2026-01-22"
     },
     {
-      "path": "3. Fit out/Fences/Fences/Gate_FREE_004.skp",
+      "path": "3. Fit out/Fences/Gate_FREE_004.skp",
       "name": "Gate_FREE_004",
       "type": "component",
       "hash": "4401654f398351687f85b5684b16eebd",
@@ -2550,7 +2520,7 @@
       "modified": "2026-01-22"
     },
     {
-      "path": "3. Fit out/Fences/Fences/Gate_Garage_FREE_003.skp",
+      "path": "3. Fit out/Fences/Gate_Garage_FREE_003.skp",
       "name": "Gate_Garage_FREE_003",
       "type": "component",
       "hash": "454039c5a16641f648084fc2be7c6d9e",
@@ -3078,27 +3048,11 @@
       "modified": "2026-01-22"
     },
     {
-      "path": "3. Fit out/Wall/WL (1).skp",
-      "name": "WL (1)",
-      "type": "component",
-      "hash": "839f0a82e60a12c61be1809ef3dafe4a",
-      "size": 8971,
-      "modified": "2026-01-22"
-    },
-    {
       "path": "3. Fit out/Wall/WL.skp",
       "name": "WL",
       "type": "component",
       "hash": "cfa6c9dd64d7c2e543ba02dc544ed9d9",
       "size": 8973,
-      "modified": "2026-01-22"
-    },
-    {
-      "path": "3. Fit out/Wall/WL1 (1).skp",
-      "name": "WL1 (1)",
-      "type": "component",
-      "hash": "e9b1c2e86e38d2caa2e984517fb256cf",
-      "size": 9101,
       "modified": "2026-01-22"
     },
     {
