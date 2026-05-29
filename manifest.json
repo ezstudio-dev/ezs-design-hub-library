@@ -1,14 +1,14 @@
 {
-  "version": "2.3.11",
-  "lastUpdated": "2026-05-27T21:52:06Z",
-  "totalFiles": 588,
-  "totalSize": "647.82 MB",
-  "totalSizeBytes": 679290028,
+  "version": "2.3.12",
+  "lastUpdated": "2026-05-29T21:58:26Z",
+  "totalFiles": 591,
+  "totalSize": "654.27 MB",
+  "totalSizeBytes": 686055047,
   "categories": [
     {
       "name": "1. Kitchen",
       "path": "1. Kitchen",
-      "fileCount": 244,
+      "fileCount": 247,
       "lastModified": "2026-01-16",
       "categories": [
         {
@@ -32,7 +32,7 @@
         {
           "name": "4. Materials",
           "path": "1. Kitchen/4. Materials",
-          "fileCount": 138,
+          "fileCount": 141,
           "lastModified": "2025-10-02"
         }
       ]
@@ -374,9 +374,9 @@
       "path": "1. Kitchen/1. Base Cabinet/Base Door.skp",
       "name": "Base Door",
       "type": "component",
-      "size": 3384416,
+      "size": 3385600,
       "modified": "2026-05-27",
-      "hash": "f4360396df1e52d3a52cf59e82408b02",
+      "hash": "28c5214ea0b6eac72f0b4a12999adc61",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Door.png"
     },
     {
@@ -1071,9 +1071,9 @@
       "path": "1. Kitchen/3. High Cabinet/High Door.skp",
       "name": "High Door",
       "type": "component",
-      "size": 3894910,
+      "size": 4099182,
       "modified": "2026-05-27",
-      "hash": "f133276eab71f69ac526bf474b50c564",
+      "hash": "92650bc7aa674f0dc38e1e4c54d4d080",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Door.png"
     },
     {
@@ -1371,6 +1371,22 @@
       "size": 4304432,
       "modified": "2026-05-25",
       "hash": "cc9373ea98ea9cf91d1a938cdfbf45a0"
+    },
+    {
+      "path": "1. Kitchen/4. Materials/LL PL2200.skm",
+      "name": "LL PL2200",
+      "type": "material",
+      "size": 1230339,
+      "modified": "2026-05-27",
+      "hash": "13fb2c2f5db8288ffd036bbc01187cb6"
+    },
+    {
+      "path": "1. Kitchen/4. Materials/LL PL2201.skm",
+      "name": "LL PL2201",
+      "type": "material",
+      "size": 1885539,
+      "modified": "2026-05-27",
+      "hash": "12b4c946429cbe7c36cc671d93d90eec"
     },
     {
       "path": "1. Kitchen/4. Materials/LL PL2203.png",
@@ -2315,6 +2331,14 @@
       "size": 2484045,
       "modified": "2026-05-25",
       "hash": "1c83fdb905f62989beb48547cc7008d1"
+    },
+    {
+      "path": "1. Kitchen/4. Materials/VENEER VHT 75.skm",
+      "name": "VENEER VHT 75",
+      "type": "material",
+      "size": 3443685,
+      "modified": "2026-05-27",
+      "hash": "24c26219605314f87dca3d62e9a3e8ce"
     },
     {
       "path": "2. 2D Graphic/2D-Bathroom/2d_wc_01.skp",
