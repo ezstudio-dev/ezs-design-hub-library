@@ -1,39 +1,39 @@
 {
-  "version": "2.3.20",
-  "lastUpdated": "2026-07-02T21:15:01Z",
-  "totalFiles": 335,
-  "totalSize": "135.57 MB",
-  "totalSizeBytes": 142159850,
+  "version": "2.3.21",
+  "lastUpdated": "2026-07-20T20:36:37Z",
+  "totalFiles": 346,
+  "totalSize": "146.27 MB",
+  "totalSizeBytes": 153371412,
   "categories": [
     {
       "name": "1. Kitchen",
       "path": "1. Kitchen",
-      "fileCount": 163,
+      "fileCount": 174,
       "lastModified": "2026-07-02",
       "categories": [
         {
           "name": "1. Base Cabinet",
           "path": "1. Kitchen/1. Base Cabinet",
-          "fileCount": 38,
-          "lastModified": "2026-07-02"
+          "fileCount": 42,
+          "lastModified": "2026-07-20"
         },
         {
           "name": "2. Upper Cabinet",
           "path": "1. Kitchen/2. Upper Cabinet",
-          "fileCount": 42,
-          "lastModified": "2026-07-02"
+          "fileCount": 47,
+          "lastModified": "2026-07-20"
         },
         {
           "name": "3. High Cabinet",
           "path": "1. Kitchen/3. High Cabinet",
-          "fileCount": 30,
-          "lastModified": "2026-06-19"
+          "fileCount": 32,
+          "lastModified": "2026-07-20"
         },
         {
           "name": "4. Materials",
           "path": "1. Kitchen/4. Materials",
           "fileCount": 53,
-          "lastModified": "2026-06-19"
+          "lastModified": "2026-07-20"
         }
       ]
     },
@@ -152,16 +152,16 @@
       "name": "Base Appliance",
       "type": "asset",
       "size": 26080,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "c54fff2da4f9569275f74351727930b2"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Appliance.skp",
       "name": "Base Appliance",
       "type": "component",
-      "size": 1350753,
-      "modified": "2026-07-02",
-      "hash": "9f31d1215e20067813c02b188947c283",
+      "size": 1538774,
+      "modified": "2026-07-20",
+      "hash": "f99c81e810e78b24b9803c75a8a9b8a6",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Appliance.png"
     },
     {
@@ -169,33 +169,33 @@
       "name": "Base Corner",
       "type": "asset",
       "size": 19094,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "f02cc8bac31363e2ddd2785c39227db3"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Corner.skp",
       "name": "Base Corner",
       "type": "component",
-      "size": 1834213,
-      "modified": "2026-07-02",
-      "hash": "aafd0f806dc76a9cb3113f796f3398de",
+      "size": 1857515,
+      "modified": "2026-07-20",
+      "hash": "de8d95ea4dfb6d03a24040ecab4df831",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Corner.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Display.png",
       "name": "Base Display",
       "type": "asset",
-      "size": 23811,
-      "modified": "2026-07-02",
-      "hash": "9a604ef1d5723fc3f302edd4d90f508a"
+      "size": 23817,
+      "modified": "2026-07-07",
+      "hash": "928b0ec0e252d53d18c560c1b64ab25a"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Display.skp",
       "name": "Base Display",
       "type": "component",
-      "size": 1300098,
-      "modified": "2026-07-02",
-      "hash": "820457bccb1443b55ba6311313b84236",
+      "size": 1229356,
+      "modified": "2026-07-20",
+      "hash": "ae92ec36fd55e4bb57e8627234ab9391",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Display.png"
     },
     {
@@ -203,16 +203,16 @@
       "name": "Base Door",
       "type": "asset",
       "size": 16483,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "aa9cce50107fe3ac53d0d6de03207402"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Door.skp",
       "name": "Base Door",
       "type": "component",
-      "size": 714323,
-      "modified": "2026-07-02",
-      "hash": "16c565caa833473399331a24126c1a48",
+      "size": 733409,
+      "modified": "2026-07-20",
+      "hash": "4bcf657277e419f0d3555c045c07f334",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Door.png"
     },
     {
@@ -220,16 +220,16 @@
       "name": "Base Drawer Double",
       "type": "asset",
       "size": 20179,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "34aa44e9c20a49ab7f0be43c69235f42"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Drawer Double.skp",
       "name": "Base Drawer Double",
       "type": "component",
-      "size": 750224,
-      "modified": "2026-07-02",
-      "hash": "bb4dfb3d3441a5733c9f4dbd5bf13580",
+      "size": 771996,
+      "modified": "2026-07-20",
+      "hash": "a11da795e70f9f51886cb3aec8690ff3",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Drawer Double.png"
     },
     {
@@ -237,16 +237,16 @@
       "name": "Base Drawer Single",
       "type": "asset",
       "size": 17111,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "96645ec0a44bb7340e3d520e7cf68c18"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Drawer Single.skp",
       "name": "Base Drawer Single",
       "type": "component",
-      "size": 692290,
-      "modified": "2026-07-02",
-      "hash": "48083c905bfbe101b79dc7cf2d9a9255",
+      "size": 727649,
+      "modified": "2026-07-20",
+      "hash": "7344880dcdf64f8c1dd820e666c02d72",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Drawer Single.png"
     },
     {
@@ -254,16 +254,16 @@
       "name": "Base Drawer Triple",
       "type": "asset",
       "size": 21070,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "fb1c19571a655602b3bb566dcdcfe89f"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Drawer Triple.skp",
       "name": "Base Drawer Triple",
       "type": "component",
-      "size": 677452,
-      "modified": "2026-07-02",
-      "hash": "1d5ac060283f96fba9dd27c4a384014c",
+      "size": 709090,
+      "modified": "2026-07-20",
+      "hash": "4046c5127bd9fb85cd50783430dbbe2f",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Drawer Triple.png"
     },
     {
@@ -271,16 +271,16 @@
       "name": "Base Filler",
       "type": "asset",
       "size": 5011,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "fc53a7f0162ff2aca0423f6ff6299acb"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Filler.skp",
       "name": "Base Filler",
       "type": "component",
-      "size": 84809,
-      "modified": "2026-07-02",
-      "hash": "74a92d4f603c618c3d7dbdab06e4761a",
+      "size": 130902,
+      "modified": "2026-07-20",
+      "hash": "514784d327bd61e1e455fa694a7d754e",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Filler.png"
     },
     {
@@ -288,16 +288,16 @@
       "name": "Base Hob Drawer Double",
       "type": "asset",
       "size": 27344,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "0330f713a71aacbe491fd8ff609a4090"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Hob Drawer Double.skp",
       "name": "Base Hob Drawer Double",
       "type": "component",
-      "size": 1604030,
-      "modified": "2026-07-02",
-      "hash": "fdc4290ac962b8c501bec78f25782b08",
+      "size": 1526615,
+      "modified": "2026-07-20",
+      "hash": "7144c109053e2ec500f5a43214e0130d",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Hob Drawer Double.png"
     },
     {
@@ -305,16 +305,16 @@
       "name": "Base Hob Drawer Triple",
       "type": "asset",
       "size": 28319,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "223f7aec2bc82257a80f75020d361a91"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Hob Drawer Triple.skp",
       "name": "Base Hob Drawer Triple",
       "type": "component",
-      "size": 1557891,
-      "modified": "2026-07-02",
-      "hash": "8c3240a60e75128ad2d59e917c71cfef",
+      "size": 1492303,
+      "modified": "2026-07-20",
+      "hash": "9919c5ec5e1b795a54f14ef9e379bfc9",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Hob Drawer Triple.png"
     },
     {
@@ -322,16 +322,16 @@
       "name": "Base Hob Vertical Door",
       "type": "asset",
       "size": 25137,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "3107c99aab7d9e6074acd0798750cb0e"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Hob Vertical Door.skp",
       "name": "Base Hob Vertical Door",
       "type": "component",
-      "size": 1796844,
-      "modified": "2026-07-02",
-      "hash": "86802256ffe573e99e2928b28131e1c9",
+      "size": 1716095,
+      "modified": "2026-07-20",
+      "hash": "f3fc5cdcca899c2b6cbe3ea728961453",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Hob Vertical Door.png"
     },
     {
@@ -339,16 +339,16 @@
       "name": "Base Narrow Drawer",
       "type": "asset",
       "size": 16393,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "95e86de0bd5cedf1aa0763e083ea837a"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Narrow Drawer.skp",
       "name": "Base Narrow Drawer",
       "type": "component",
-      "size": 644631,
-      "modified": "2026-07-02",
-      "hash": "77482a4d7711119e63ec50e9113a6fc8",
+      "size": 680175,
+      "modified": "2026-07-20",
+      "hash": "2c8fe98c5f736455463970598bf2d1fe",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Narrow Drawer.png"
     },
     {
@@ -356,33 +356,50 @@
       "name": "Base Open",
       "type": "asset",
       "size": 14267,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "ddf053db538596ac9e3d2f88a081b16e"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Open.skp",
       "name": "Base Open",
       "type": "component",
-      "size": 441922,
-      "modified": "2026-07-02",
-      "hash": "42f16946230597befe4ec87dbffd0a82",
+      "size": 491775,
+      "modified": "2026-07-20",
+      "hash": "9cfbb6c4a547df38c720e364e08f1a58",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Open.png"
+    },
+    {
+      "path": "1. Kitchen/1. Base Cabinet/Base Rice Bin Drawer.png",
+      "name": "Base Rice Bin Drawer",
+      "type": "asset",
+      "size": 16634,
+      "modified": "2026-07-07",
+      "hash": "8653c69923b6b87f71032af35d2ad831"
+    },
+    {
+      "path": "1. Kitchen/1. Base Cabinet/Base Rice Bin Drawer.skp",
+      "name": "Base Rice Bin Drawer",
+      "type": "component",
+      "size": 731511,
+      "modified": "2026-07-20",
+      "hash": "e64f6731fb130564ccd93b2df6c7571f",
+      "thumbnail": "1. Kitchen/1. Base Cabinet/Base Rice Bin Drawer.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Sink Horizontal Drawer.png",
       "name": "Base Sink Horizontal Drawer",
       "type": "asset",
       "size": 45525,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "552b62500b10c85db3d202a7fc8a8347"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Sink Horizontal Drawer.skp",
       "name": "Base Sink Horizontal Drawer",
       "type": "component",
-      "size": 3762439,
-      "modified": "2026-07-02",
-      "hash": "f2b2f131f08f863c6b43a34533fe7d27",
+      "size": 3768540,
+      "modified": "2026-07-20",
+      "hash": "beaaa8c2ce89d050859ca48d1338f7d0",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Sink Horizontal Drawer.png"
     },
     {
@@ -390,33 +407,50 @@
       "name": "Base Sink Vertical Door",
       "type": "asset",
       "size": 43566,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "ebf1e4c228b9867fcf2912b8f926a9a6"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Base Sink Vertical Door.skp",
       "name": "Base Sink Vertical Door",
       "type": "component",
-      "size": 3887208,
-      "modified": "2026-07-02",
-      "hash": "ada7d3623f5c2228afc3c9cac43ab6e9",
+      "size": 3911593,
+      "modified": "2026-07-20",
+      "hash": "ec4260ea54934ee8688ad0389365ef31",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Sink Vertical Door.png"
+    },
+    {
+      "path": "1. Kitchen/1. Base Cabinet/Base Waste Bin Drawer.png",
+      "name": "Base Waste Bin Drawer",
+      "type": "asset",
+      "size": 16131,
+      "modified": "2026-07-07",
+      "hash": "c34689bd1c9891755b5080c20e3e7e3c"
+    },
+    {
+      "path": "1. Kitchen/1. Base Cabinet/Base Waste Bin Drawer.skp",
+      "name": "Base Waste Bin Drawer",
+      "type": "component",
+      "size": 821350,
+      "modified": "2026-07-20",
+      "hash": "6bd993c742c1b74680efb720ea721801",
+      "thumbnail": "1. Kitchen/1. Base Cabinet/Base Waste Bin Drawer.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Dishwasher 60.png",
       "name": "Dishwasher 60",
       "type": "asset",
       "size": 22766,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "2f3609d2feaf54d3f34881bc1706464b"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Dishwasher 60.skp",
       "name": "Dishwasher 60",
       "type": "component",
-      "size": 1052621,
-      "modified": "2026-07-02",
-      "hash": "a399d8c8746ed7f7e2deeca49764c48a",
+      "size": 1124306,
+      "modified": "2026-07-20",
+      "hash": "11c7b1fc66269936a947db54d6ce5730",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Dishwasher 60.png"
     },
     {
@@ -424,16 +458,16 @@
       "name": "End Panel Decor",
       "type": "asset",
       "size": 7021,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "bf24a5344fd992b865d6e21f0fb03905"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/End Panel Decor.skp",
       "name": "End Panel Decor",
       "type": "component",
-      "size": 143247,
-      "modified": "2026-07-02",
-      "hash": "00797e39c4288a4bca4c36502985530c",
+      "size": 204442,
+      "modified": "2026-07-20",
+      "hash": "ccff2809af0975a6dd2acbb324f9ae62",
       "thumbnail": "1. Kitchen/1. Base Cabinet/End Panel Decor.png"
     },
     {
@@ -441,16 +475,16 @@
       "name": "End Panel",
       "type": "asset",
       "size": 4822,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "cca2b980955a52c503344c31ca2d2ddb"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/End Panel.skp",
       "name": "End Panel",
       "type": "component",
-      "size": 99673,
-      "modified": "2026-07-02",
-      "hash": "8a25b34ae30289a6148df70fc9cece5e",
+      "size": 158522,
+      "modified": "2026-07-20",
+      "hash": "a9e9ea5183628f61e41565395a1622d0",
       "thumbnail": "1. Kitchen/1. Base Cabinet/End Panel.png"
     },
     {
@@ -458,16 +492,16 @@
       "name": "Stone",
       "type": "asset",
       "size": 24517,
-      "modified": "2026-07-02",
+      "modified": "2026-07-07",
       "hash": "51c7f6f63a8341f69d28bc7061f7b324"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Stone.skp",
       "name": "Stone",
       "type": "component",
-      "size": 163274,
-      "modified": "2026-07-02",
-      "hash": "5f84d9fc1681c115ca0cd9a10b1c3250",
+      "size": 162866,
+      "modified": "2026-07-20",
+      "hash": "5ced4df918f018e2b32930b9eace0e94",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Stone.png"
     },
     {
@@ -475,16 +509,16 @@
       "name": "End Panel Decor",
       "type": "asset",
       "size": 7018,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "73679a2eaf9fa1c0393377adf9ccbc24"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/End Panel Decor.skp",
       "name": "End Panel Decor",
       "type": "component",
-      "size": 141969,
-      "modified": "2026-07-02",
-      "hash": "fd19c7c604591b9cd74a24830998966b",
+      "size": 201766,
+      "modified": "2026-07-20",
+      "hash": "8f66e23926037820e6d8a52b63d760ea",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/End Panel Decor.png"
     },
     {
@@ -492,16 +526,16 @@
       "name": "End Panel",
       "type": "asset",
       "size": 4009,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "529c468ce2a4878fbcd0210d754d72f9"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/End Panel.skp",
       "name": "End Panel",
       "type": "component",
-      "size": 116651,
-      "modified": "2026-07-02",
-      "hash": "ff448fc1f3d73e62d8c4694f58775d9a",
+      "size": 175124,
+      "modified": "2026-07-20",
+      "hash": "6b6a5455d12b9ec18af5eabc6314057c",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/End Panel.png"
     },
     {
@@ -509,50 +543,50 @@
       "name": "Extra Corner Door",
       "type": "asset",
       "size": 12583,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "22f014ff28cf4f5004fceec8d98c9a34"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Extra Corner Door.skp",
       "name": "Extra Corner Door",
       "type": "component",
-      "size": 751596,
-      "modified": "2026-07-02",
-      "hash": "f244c39e0015c75f9339958c1de6e9ad",
+      "size": 833276,
+      "modified": "2026-07-20",
+      "hash": "175d8cadcbab7d2c470cd0bbc322a123",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Extra Corner Door.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Extra Display.png",
       "name": "Extra Display",
       "type": "asset",
-      "size": 17430,
-      "modified": "2026-07-02",
-      "hash": "cc05e4a169efa93acb6b9d3301040500"
+      "size": 17428,
+      "modified": "2026-07-08",
+      "hash": "d2e184d1382e21b98e60b7bdfc201f2c"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Extra Display.skp",
       "name": "Extra Display",
       "type": "component",
-      "size": 1000528,
-      "modified": "2026-07-02",
-      "hash": "de6e2980f96b03a7b3d911f9253a9b80",
+      "size": 922649,
+      "modified": "2026-07-20",
+      "hash": "c2247ac0dde70ccde0508e964bea2f7d",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Extra Display.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Extra Door.png",
       "name": "Extra Door",
       "type": "asset",
-      "size": 11517,
-      "modified": "2026-07-02",
-      "hash": "d828c57a07db35aaaf122ea0a6a3d154"
+      "size": 11703,
+      "modified": "2026-07-08",
+      "hash": "f7d61fe0266e5cfbc4fda24796043f6b"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Extra Door.skp",
       "name": "Extra Door",
       "type": "component",
-      "size": 749073,
-      "modified": "2026-07-02",
-      "hash": "a0c4fdcb29ea016b2a339e99ddc0bc0e",
+      "size": 784683,
+      "modified": "2026-07-20",
+      "hash": "de5182d709a4e611e5f5bfea97842c10",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Extra Door.png"
     },
     {
@@ -560,16 +594,16 @@
       "name": "Extra Open",
       "type": "asset",
       "size": 11628,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "cb5309f84de677efa941f37e8df32be3"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Extra Open.skp",
       "name": "Extra Open",
       "type": "component",
-      "size": 372887,
-      "modified": "2026-07-02",
-      "hash": "685f66a9dba2e5a49801716cd8852dc2",
+      "size": 407530,
+      "modified": "2026-07-20",
+      "hash": "0ff30e9952b141f8643bdfd322a4e759",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Extra Open.png"
     },
     {
@@ -577,16 +611,16 @@
       "name": "Mouding",
       "type": "asset",
       "size": 2808,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "c08d1fd773d10b9b24a9f9111e9da493"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Mouding.skp",
       "name": "Mouding",
       "type": "component",
-      "size": 497068,
-      "modified": "2026-07-02",
-      "hash": "f4068704adb8dde13d49274696f56afd",
+      "size": 543933,
+      "modified": "2026-07-20",
+      "hash": "898f0c89fa787fffb66206d661ac7cb3",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Mouding.png"
     },
     {
@@ -594,16 +628,16 @@
       "name": "Shelf",
       "type": "asset",
       "size": 10632,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "29cb6d282b5fe3bb0295acddc6fc1783"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Shelf.skp",
       "name": "Shelf",
       "type": "component",
-      "size": 459568,
-      "modified": "2026-07-02",
-      "hash": "5529f52d57a718f89cb744dbe6d07484",
+      "size": 461085,
+      "modified": "2026-07-20",
+      "hash": "6b1385bba8723d33858c55717a3ce1f0",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Shelf.png"
     },
     {
@@ -611,16 +645,16 @@
       "name": "Upper Corner Open",
       "type": "asset",
       "size": 9454,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "4a8314072032e387054c25082c300ad8"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Corner Open.skp",
       "name": "Upper Corner Open",
       "type": "component",
-      "size": 721752,
-      "modified": "2026-07-02",
-      "hash": "b64bbe3a1637b28642bb07c669f4e041",
+      "size": 628755,
+      "modified": "2026-07-20",
+      "hash": "ac01a2f7d50ddbbbb7b7df80e51d58d9",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Corner Open.png"
     },
     {
@@ -628,16 +662,16 @@
       "name": "Upper Corner",
       "type": "asset",
       "size": 11898,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "7a3111d62d449a8d8f5c8365cf4e45b0"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Corner.skp",
       "name": "Upper Corner",
       "type": "component",
-      "size": 752104,
-      "modified": "2026-07-02",
-      "hash": "d8ce6517e3e65752064699a81dc6bd27",
+      "size": 792202,
+      "modified": "2026-07-20",
+      "hash": "3dac5b0ac8bbe1406dfe72abf0f3bea0",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Corner.png"
     },
     {
@@ -645,50 +679,50 @@
       "name": "Upper Door Dish Rack",
       "type": "asset",
       "size": 10795,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "50276802cb6b7169f2a5535830b7186e"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Door Dish Rack.skp",
       "name": "Upper Door Dish Rack",
       "type": "component",
-      "size": 6147389,
-      "modified": "2026-07-02",
-      "hash": "5167269d8883b163c4e2a9eea58463b7",
+      "size": 6171119,
+      "modified": "2026-07-20",
+      "hash": "82ebc0da513c747389d1ef36cab9ae68",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Door Dish Rack.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Door Display.png",
       "name": "Upper Door Display",
       "type": "asset",
-      "size": 22150,
-      "modified": "2026-07-02",
-      "hash": "abef7691d2a57d294318214ee42bb766"
+      "size": 22149,
+      "modified": "2026-07-08",
+      "hash": "7bab95e36c21babfb7baffc1a978fd74"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Door Display.skp",
       "name": "Upper Door Display",
       "type": "component",
-      "size": 536512,
-      "modified": "2026-07-02",
-      "hash": "fa3f1ea5d802045909f603c9a62eed6e",
+      "size": 462076,
+      "modified": "2026-07-20",
+      "hash": "b4c10197a54924aabf33f00d4394bd35",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Door Display.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Door Hood.png",
       "name": "Upper Door Hood",
       "type": "asset",
-      "size": 11569,
-      "modified": "2026-07-02",
-      "hash": "52f5be8fcb6f1fd396a3d82c6233d604"
+      "size": 12297,
+      "modified": "2026-07-08",
+      "hash": "aa36e5734dd7cd9ec254e781325a8897"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Door Hood.skp",
       "name": "Upper Door Hood",
       "type": "component",
-      "size": 957921,
-      "modified": "2026-07-02",
-      "hash": "43942a62093992bf5543cdbfc8794ff6",
+      "size": 965744,
+      "modified": "2026-07-20",
+      "hash": "b1c8081c0d9f8d40ebfaf34ede19cc0d",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Door Hood.png"
     },
     {
@@ -696,16 +730,16 @@
       "name": "Upper Door",
       "type": "asset",
       "size": 10795,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "50276802cb6b7169f2a5535830b7186e"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Door.skp",
       "name": "Upper Door",
       "type": "component",
-      "size": 726940,
-      "modified": "2026-07-02",
-      "hash": "d330ddfe8e36e1ee42c32bc88252230c",
+      "size": 800580,
+      "modified": "2026-07-20",
+      "hash": "67e46dacc92bee182cc1b0f69b71a936",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Door.png"
     },
     {
@@ -713,67 +747,67 @@
       "name": "Upper Filler",
       "type": "asset",
       "size": 6984,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "c0954f53a175a3d8bda1ca51b7dc1739"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Filler.skp",
       "name": "Upper Filler",
       "type": "component",
-      "size": 63924,
-      "modified": "2026-07-02",
-      "hash": "5f11d3d305c6bad457cacbcbfeb69911",
+      "size": 110910,
+      "modified": "2026-07-20",
+      "hash": "f735e88ebc450d40c4cdf5e780e91af1",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Filler.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Display.png",
       "name": "Upper Lift Display",
       "type": "asset",
-      "size": 22324,
-      "modified": "2026-07-02",
-      "hash": "71afc0e9dc016176cae198789b561e13"
+      "size": 22305,
+      "modified": "2026-07-08",
+      "hash": "37204fc4f47f62339f900918a1c64765"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Display.skp",
       "name": "Upper Lift Display",
       "type": "component",
-      "size": 5738677,
-      "modified": "2026-07-02",
-      "hash": "2ea6a28cb883fbac5e3ffc5ed7ceafd3",
+      "size": 5790465,
+      "modified": "2026-07-08",
+      "hash": "7459bf9604091e60f8f8da52fb3764a4",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Lift Display.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Double Dish Rack.png",
       "name": "Upper Lift Double Dish Rack",
       "type": "asset",
-      "size": 12158,
-      "modified": "2026-07-02",
-      "hash": "04a157bfff2e32aadcf487dbe78ee3b4"
+      "size": 12113,
+      "modified": "2026-07-08",
+      "hash": "3d7b67cacf68cd2e8a080930ec88148d"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Double Dish Rack.skp",
       "name": "Upper Lift Double Dish Rack",
       "type": "component",
-      "size": 6157069,
-      "modified": "2026-07-02",
-      "hash": "daea6b69e43b18753a1a74530187297d",
+      "size": 6172544,
+      "modified": "2026-07-20",
+      "hash": "b9a99dbffe809cf9aa666e61d8b8d5a3",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Lift Double Dish Rack.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Double Hood.png",
       "name": "Upper Lift Double Hood",
       "type": "asset",
-      "size": 12413,
-      "modified": "2026-07-02",
-      "hash": "bbc568eea3ea02998348e093b8f283b8"
+      "size": 13251,
+      "modified": "2026-07-08",
+      "hash": "dbb43686220431e17922d5afc08edda8"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Double Hood.skp",
       "name": "Upper Lift Double Hood",
       "type": "component",
-      "size": 1051105,
-      "modified": "2026-07-02",
-      "hash": "2151ddbacc0e916af085f92307345007",
+      "size": 1027544,
+      "modified": "2026-07-20",
+      "hash": "ee660ee1349a67d09851793f372e0a4f",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Lift Double Hood.png"
     },
     {
@@ -781,33 +815,74 @@
       "name": "Upper Lift Double",
       "type": "asset",
       "size": 12113,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "3d7b67cacf68cd2e8a080930ec88148d"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Double.skp",
       "name": "Upper Lift Double",
       "type": "component",
-      "size": 761469,
-      "modified": "2026-07-02",
-      "hash": "0f09762a38ed4907c85bc6e517c21f0d",
+      "size": 767886,
+      "modified": "2026-07-20",
+      "hash": "3508a109166517adcd2753d843ea7084",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Lift Double.png"
+    },
+    {
+      "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Single Dish Rack.skp",
+      "name": "Upper Lift Single Dish Rack",
+      "type": "component",
+      "size": 5981436,
+      "modified": "2026-07-20",
+      "hash": "7d65ed2b53df62e0eeee4a668188cc20"
+    },
+    {
+      "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Single Display Dish Rack.skp",
+      "name": "Upper Lift Single Display Dish Rack",
+      "type": "component",
+      "size": 5692639,
+      "modified": "2026-07-20",
+      "hash": "010b96a0e8408a72616494c77d895ea2"
+    },
+    {
+      "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Single Display.skp",
+      "name": "Upper Lift Single Display",
+      "type": "component",
+      "size": 334264,
+      "modified": "2026-07-20",
+      "hash": "da532bb6a821776e07d810fe054f098c"
+    },
+    {
+      "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Single Hood.png",
+      "name": "Upper Lift Single Hood",
+      "type": "asset",
+      "size": 14988,
+      "modified": "2026-07-08",
+      "hash": "bd79c71f518f6ca31881630832ecc1c4"
+    },
+    {
+      "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Single Hood.skp",
+      "name": "Upper Lift Single Hood",
+      "type": "component",
+      "size": 894174,
+      "modified": "2026-07-20",
+      "hash": "1974a00bb76e43ef72cbe01bcf3a0cb3",
+      "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Lift Single Hood.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Single.png",
       "name": "Upper Lift Single",
       "type": "asset",
       "size": 12471,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "38fc3de87d7dad1eb0711b18c6b22631"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Single.skp",
       "name": "Upper Lift Single",
       "type": "component",
-      "size": 6041543,
-      "modified": "2026-07-02",
-      "hash": "9d8862eb6ae90d88d30999cab7596b9c",
+      "size": 632022,
+      "modified": "2026-07-20",
+      "hash": "c2681ee0b2f9ec363645376e689cc821",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Lift Single.png"
     },
     {
@@ -815,16 +890,16 @@
       "name": "Upper Open",
       "type": "asset",
       "size": 13169,
-      "modified": "2026-07-02",
+      "modified": "2026-07-08",
       "hash": "14aa11118bc5dc4338deb7bb86b4a17d"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Open.skp",
       "name": "Upper Open",
       "type": "component",
-      "size": 406355,
-      "modified": "2026-07-02",
-      "hash": "07f22fc72c6d6dec1633ced207b8504f",
+      "size": 445803,
+      "modified": "2026-07-20",
+      "hash": "56911b45633fe2395a081f59ddd0c124",
       "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Open.png"
     },
     {
@@ -839,9 +914,9 @@
       "path": "1. Kitchen/3. High Cabinet/End Panel.skp",
       "name": "End Panel",
       "type": "component",
-      "size": 98726,
-      "modified": "2026-07-02",
-      "hash": "c8ed044e751dd2d1604774c93584445c",
+      "size": 157309,
+      "modified": "2026-07-20",
+      "hash": "a3782df3d347262a29fed1aa92811630",
       "thumbnail": "1. Kitchen/3. High Cabinet/End Panel.png"
     },
     {
@@ -856,9 +931,9 @@
       "path": "1. Kitchen/3. High Cabinet/Extra Corner Door.skp",
       "name": "Extra Corner Door",
       "type": "component",
-      "size": 751618,
-      "modified": "2026-07-02",
-      "hash": "088dfb393dca663c8e4d8c8bb752c005",
+      "size": 833278,
+      "modified": "2026-07-20",
+      "hash": "1b7cc0d73dfbbe830129195e9cd2b132",
       "thumbnail": "1. Kitchen/3. High Cabinet/Extra Corner Door.png"
     },
     {
@@ -873,9 +948,9 @@
       "path": "1. Kitchen/3. High Cabinet/Extra Display.skp",
       "name": "Extra Display",
       "type": "component",
-      "size": 1000563,
-      "modified": "2026-07-02",
-      "hash": "cbd979c8be7b60a4920117e0de64168a",
+      "size": 922647,
+      "modified": "2026-07-20",
+      "hash": "5db6cedfb28da2c71605668c8043b8bb",
       "thumbnail": "1. Kitchen/3. High Cabinet/Extra Display.png"
     },
     {
@@ -890,9 +965,9 @@
       "path": "1. Kitchen/3. High Cabinet/Extra Door.skp",
       "name": "Extra Door",
       "type": "component",
-      "size": 749072,
-      "modified": "2026-07-02",
-      "hash": "b907172f303bfe632bf3033abf670ce4",
+      "size": 784683,
+      "modified": "2026-07-20",
+      "hash": "18922ff95ccd7c499a7c0444368588da",
       "thumbnail": "1. Kitchen/3. High Cabinet/Extra Door.png"
     },
     {
@@ -902,6 +977,15 @@
       "size": 11571,
       "modified": "2026-07-02",
       "hash": "daff46eed36628baaeb4b709ab7d9596"
+    },
+    {
+      "path": "1. Kitchen/3. High Cabinet/Extra Open.skp",
+      "name": "Extra Open",
+      "type": "component",
+      "size": 407530,
+      "modified": "2026-07-20",
+      "hash": "57113576813afe7bf9083b3ca7f34c9d",
+      "thumbnail": "1. Kitchen/3. High Cabinet/Extra Open.png"
     },
     {
       "path": "1. Kitchen/3. High Cabinet/High Corner.png",
@@ -915,9 +999,9 @@
       "path": "1. Kitchen/3. High Cabinet/High Corner.skp",
       "name": "High Corner",
       "type": "component",
-      "size": 2598274,
-      "modified": "2026-07-02",
-      "hash": "9722650c4f5c3243863ea55190409c30",
+      "size": 2012665,
+      "modified": "2026-07-20",
+      "hash": "b7e6aea56290276860db9cf41b90451a",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Corner.png"
     },
     {
@@ -932,9 +1016,9 @@
       "path": "1. Kitchen/3. High Cabinet/High Display.skp",
       "name": "High Display",
       "type": "component",
-      "size": 1377852,
-      "modified": "2026-07-02",
-      "hash": "e8002bce58bb91e17ee8895155bfd969",
+      "size": 1584903,
+      "modified": "2026-07-20",
+      "hash": "1a31a4a88763744147ccf2969aa87cf1",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Display.png"
     },
     {
@@ -949,9 +1033,9 @@
       "path": "1. Kitchen/3. High Cabinet/High Door.skp",
       "name": "High Door",
       "type": "component",
-      "size": 1268861,
-      "modified": "2026-07-02",
-      "hash": "533a48449082f436ffca22609992b578",
+      "size": 1320523,
+      "modified": "2026-07-20",
+      "hash": "a4f18a44d008054469d7de5fa34d12cf",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Door.png"
     },
     {
@@ -966,9 +1050,9 @@
       "path": "1. Kitchen/3. High Cabinet/High Doupble Appliance.skp",
       "name": "High Doupble Appliance",
       "type": "component",
-      "size": 1818266,
-      "modified": "2026-07-02",
-      "hash": "bc69a728f233bf2fd0fa7fbc4ee2a0ba",
+      "size": 1950563,
+      "modified": "2026-07-20",
+      "hash": "5c033d21554aeefb08029e45f0ae14b1",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Doupble Appliance.png"
     },
     {
@@ -983,9 +1067,9 @@
       "path": "1. Kitchen/3. High Cabinet/High Filler.skp",
       "name": "High Filler",
       "type": "component",
-      "size": 60751,
-      "modified": "2026-07-02",
-      "hash": "ad0ae440740a5b4598d8103d93a53e54",
+      "size": 100450,
+      "modified": "2026-07-20",
+      "hash": "3832398b8eeadb5d22b28787c8b9fb89",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Filler.png"
     },
     {
@@ -1000,9 +1084,9 @@
       "path": "1. Kitchen/3. High Cabinet/High Open.skp",
       "name": "High Open",
       "type": "component",
-      "size": 576985,
-      "modified": "2026-07-02",
-      "hash": "db40103e981f9f1e3a43ac77cce1c7ec",
+      "size": 627675,
+      "modified": "2026-07-20",
+      "hash": "3a1050ddc9a470bee3598023326fcb0e",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Open.png"
     },
     {
@@ -1017,9 +1101,9 @@
       "path": "1. Kitchen/3. High Cabinet/High Single Appliance.skp",
       "name": "High Single Appliance",
       "type": "component",
-      "size": 1943892,
-      "modified": "2026-07-02",
-      "hash": "166554bc4551d46b455e37852294ad2a",
+      "size": 2108735,
+      "modified": "2026-07-20",
+      "hash": "d4294abc1190ad407834e0c09c73c98d",
       "thumbnail": "1. Kitchen/3. High Cabinet/High Single Appliance.png"
     },
     {
@@ -1042,9 +1126,9 @@
       "path": "1. Kitchen/3. High Cabinet/Mouding.skp",
       "name": "Mouding",
       "type": "component",
-      "size": 485143,
-      "modified": "2026-07-02",
-      "hash": "128044fa38f5bfe153a187936fc3de20",
+      "size": 543931,
+      "modified": "2026-07-20",
+      "hash": "361d1bdda7e95fb151b67d3f9e046ace",
       "thumbnail": "1. Kitchen/3. High Cabinet/Mouding.png"
     },
     {
@@ -1059,9 +1143,9 @@
       "path": "1. Kitchen/3. High Cabinet/Refrigerator Built In.skp",
       "name": "Refrigerator Built In",
       "type": "component",
-      "size": 2181206,
-      "modified": "2026-07-02",
-      "hash": "1737200f52a0c63641a6f93cc82fbec9",
+      "size": 2175660,
+      "modified": "2026-07-20",
+      "hash": "cb8afdf3404ee5b3ddb06b11630207c9",
       "thumbnail": "1. Kitchen/3. High Cabinet/Refrigerator Built In.png"
     },
     {
@@ -1076,10 +1160,18 @@
       "path": "1. Kitchen/3. High Cabinet/Refrigerator.skp",
       "name": "Refrigerator",
       "type": "component",
-      "size": 1239941,
-      "modified": "2026-07-02",
-      "hash": "b979c128db2e1d69a01f0f8161294f57",
+      "size": 1238577,
+      "modified": "2026-07-20",
+      "hash": "2f1741400e0441ec01308c6cc916a4f9",
       "thumbnail": "1. Kitchen/3. High Cabinet/Refrigerator.png"
+    },
+    {
+      "path": "1. Kitchen/3. High Cabinet/Upper Door.skp",
+      "name": "Upper Door",
+      "type": "component",
+      "size": 765943,
+      "modified": "2026-07-17",
+      "hash": "13fd9b81b64a800b1ee7ff064e5934d4"
     },
     {
       "path": "1. Kitchen/4. Materials/BQ200.skm",
@@ -1205,113 +1297,113 @@
       "path": "1. Kitchen/4. Materials/LK 4660T LUX.skm",
       "name": "LK 4660T LUX",
       "type": "material",
-      "size": 622804,
-      "modified": "2026-07-02",
-      "hash": "2efec6fd54a0ae0642e1e3d2bbe4fec4"
+      "size": 622800,
+      "modified": "2026-07-03",
+      "hash": "8c610ac0379dd8fea1d089cdbebb3147"
     },
     {
       "path": "1. Kitchen/4. Materials/LK 4662T LUX.skm",
       "name": "LK 4662T LUX",
       "type": "material",
-      "size": 822997,
-      "modified": "2026-07-02",
-      "hash": "6aecf823215a89c52d94c04578828704"
+      "size": 822992,
+      "modified": "2026-07-03",
+      "hash": "b46b2e68dd7114c8b045add2632bce9c"
     },
     {
       "path": "1. Kitchen/4. Materials/LK 4664T LUX.skm",
       "name": "LK 4664T LUX",
       "type": "material",
-      "size": 783458,
-      "modified": "2026-07-02",
-      "hash": "126a0d249fe873d7c156d8b531ca2e64"
+      "size": 783452,
+      "modified": "2026-07-03",
+      "hash": "42e86b00b495de57f96ad6a15c717f75"
     },
     {
       "path": "1. Kitchen/4. Materials/LK 4666T LUX.skm",
       "name": "LK 4666T LUX",
       "type": "material",
-      "size": 900990,
-      "modified": "2026-07-02",
-      "hash": "3310c69638d2e4ba9360beb9ba4d9faf"
+      "size": 900984,
+      "modified": "2026-07-03",
+      "hash": "5c897e96e4e5689c734a08ceb61fe172"
     },
     {
       "path": "1. Kitchen/4. Materials/LK 4668T LUX.skm",
       "name": "LK 4668T LUX",
       "type": "material",
-      "size": 800301,
-      "modified": "2026-07-02",
-      "hash": "784bb22e67275b6d1096d7499fa85783"
+      "size": 800296,
+      "modified": "2026-07-03",
+      "hash": "fcfa952f450555cc13194ceb64f0bf35"
     },
     {
       "path": "1. Kitchen/4. Materials/LK 4670T LUX.skm",
       "name": "LK 4670T LUX",
       "type": "material",
-      "size": 883255,
-      "modified": "2026-07-02",
-      "hash": "e173b3a5f634b9a27361c2d372919f28"
+      "size": 883251,
+      "modified": "2026-07-03",
+      "hash": "ab9367f13e6503653a7cc989bb4b3fbf"
     },
     {
       "path": "1. Kitchen/4. Materials/LK 4676T LUX.skm",
       "name": "LK 4676T LUX",
       "type": "material",
-      "size": 841264,
-      "modified": "2026-07-02",
-      "hash": "735ff5d15223037703183180532dfa77"
+      "size": 841260,
+      "modified": "2026-07-03",
+      "hash": "467653ba76343d8db4b4ffa73578d622"
     },
     {
       "path": "1. Kitchen/4. Materials/LL 2250.skm",
       "name": "LL 2250",
       "type": "material",
-      "size": 2671,
-      "modified": "2026-07-02",
-      "hash": "25f9f9ad3204362b6c3479592f4fe468"
+      "size": 2666,
+      "modified": "2026-07-03",
+      "hash": "491cacbca77ad42920f834da5355ee1a"
     },
     {
       "path": "1. Kitchen/4. Materials/LL 2253.skm",
       "name": "LL 2253",
       "type": "material",
-      "size": 3955,
-      "modified": "2026-07-02",
-      "hash": "b93dfbed9f9a2a22de2583afe02197bf"
+      "size": 3952,
+      "modified": "2026-07-03",
+      "hash": "bc5490b5ab458cd8ced87959ea932e3e"
     },
     {
       "path": "1. Kitchen/4. Materials/LL 2254.skm",
       "name": "LL 2254",
       "type": "material",
-      "size": 3364,
-      "modified": "2026-07-02",
-      "hash": "62152226b764c6987d2e3ddc6a57fa52"
+      "size": 3362,
+      "modified": "2026-07-03",
+      "hash": "67b8976719f554b7185e21531a55f3d9"
     },
     {
       "path": "1. Kitchen/4. Materials/LL 2258.skm",
       "name": "LL 2258",
       "type": "material",
-      "size": 2691,
-      "modified": "2026-07-02",
-      "hash": "3118e6defce26f8780b4857a26caeb4e"
+      "size": 2688,
+      "modified": "2026-07-03",
+      "hash": "d719c66abf53fa2257cd898bd866f6f4"
     },
     {
       "path": "1. Kitchen/4. Materials/LL 2260.skm",
       "name": "LL 2260",
       "type": "material",
-      "size": 2693,
-      "modified": "2026-07-02",
-      "hash": "81f5eb1f9aeb747af30160f4183925bc"
+      "size": 2688,
+      "modified": "2026-07-03",
+      "hash": "db932ccfa694ca0b8878cbd2d85edba2"
     },
     {
       "path": "1. Kitchen/4. Materials/LL 2266.skm",
       "name": "LL 2266",
       "type": "material",
-      "size": 97045,
-      "modified": "2026-07-02",
-      "hash": "7dd9ef32f6a1078eca351d72870457db"
+      "size": 97041,
+      "modified": "2026-07-03",
+      "hash": "1191443b3ef72bf0a052aa9dee6f75ef"
     },
     {
       "path": "1. Kitchen/4. Materials/LL 2276.skm",
       "name": "LL 2276",
       "type": "material",
-      "size": 1246489,
-      "modified": "2026-07-02",
-      "hash": "97c039af8fcf5c87389dfc5bd5a943a2"
+      "size": 1246486,
+      "modified": "2026-07-03",
+      "hash": "7ee78a8a2786450dd0197d0a45b56e11"
     },
     {
       "path": "1. Kitchen/4. Materials/LL PL2200.skm",
@@ -1357,17 +1449,17 @@
       "path": "1. Kitchen/4. Materials/MS 024 MM.skm",
       "name": "MS 024 MM",
       "type": "material",
-      "size": 434203,
-      "modified": "2026-07-02",
-      "hash": "f61dcaf838822e0d3723868f0da04fd6"
+      "size": 434200,
+      "modified": "2026-07-03",
+      "hash": "0c78f38994ff139a17b7ccb151c5d71e"
     },
     {
       "path": "1. Kitchen/4. Materials/MS 205 MM.skm",
       "name": "MS 205 MM",
       "type": "material",
-      "size": 2684,
-      "modified": "2026-07-02",
-      "hash": "8cde585d301ac994d40dd7d8d7ecd390"
+      "size": 2680,
+      "modified": "2026-07-03",
+      "hash": "45577b07c137df07452f0d0558ac09d3"
     },
     {
       "path": "1. Kitchen/4. Materials/MS 205.skm",
@@ -1381,49 +1473,49 @@
       "path": "1. Kitchen/4. Materials/MS 250 MM.skm",
       "name": "MS 250 MM",
       "type": "material",
-      "size": 2678,
-      "modified": "2026-07-02",
-      "hash": "c1e63f7d73d836628ec92834867bdd5d"
+      "size": 2675,
+      "modified": "2026-07-03",
+      "hash": "1f924977a862c412aad8c51edf8f5daa"
     },
     {
       "path": "1. Kitchen/4. Materials/MS 254 MM.skm",
       "name": "MS 254 MM",
       "type": "material",
-      "size": 3371,
-      "modified": "2026-07-02",
-      "hash": "4e9737a75079d713635163c76045fa9b"
+      "size": 3367,
+      "modified": "2026-07-03",
+      "hash": "0daa7c2ca19357248931c4fbba5624d3"
     },
     {
       "path": "1. Kitchen/4. Materials/MS 256 MM.skm",
       "name": "MS 256 MM",
       "type": "material",
-      "size": 109624,
-      "modified": "2026-07-02",
-      "hash": "17a692b0e092a560ffe1bd53f0171a97"
+      "size": 109622,
+      "modified": "2026-07-03",
+      "hash": "bf49f435036dd87098cefac9940e480b"
     },
     {
       "path": "1. Kitchen/4. Materials/MS 259 MM.skm",
       "name": "MS 259 MM",
       "type": "material",
-      "size": 2702,
-      "modified": "2026-07-02",
-      "hash": "5ba14a0fd00e4030daf2e7bd60365001"
+      "size": 2699,
+      "modified": "2026-07-03",
+      "hash": "93386ba9f207de11fd8ea2178eab1ec7"
     },
     {
       "path": "1. Kitchen/4. Materials/MS 262 MM.skm",
       "name": "MS 262 MM",
       "type": "material",
-      "size": 2699,
-      "modified": "2026-07-02",
-      "hash": "308a6c20083a2041776335d5a33c891b"
+      "size": 2696,
+      "modified": "2026-07-03",
+      "hash": "f19a99ed9bf15105728bf89cfb712918"
     },
     {
       "path": "1. Kitchen/4. Materials/MS 263 MM.skm",
       "name": "MS 263 MM",
       "type": "material",
-      "size": 2701,
-      "modified": "2026-07-02",
-      "hash": "6d1ff1b751cbea90ce4f5803c05a3127"
+      "size": 2699,
+      "modified": "2026-07-03",
+      "hash": "2648fc61f397afade5a138c0ab166265"
     },
     {
       "path": "1. Kitchen/4. Materials/MS 263.skm",
@@ -1437,73 +1529,73 @@
       "path": "1. Kitchen/4. Materials/MS LUX528 MTQ.skm",
       "name": "MS LUX528 MTQ",
       "type": "material",
-      "size": 622806,
-      "modified": "2026-07-02",
-      "hash": "6a55f138eba0d81d548cb32ee399b297"
+      "size": 622804,
+      "modified": "2026-07-03",
+      "hash": "d0b1b9e636187cee94ce2c5eee261c0e"
     },
     {
       "path": "1. Kitchen/4. Materials/MS LUX529 MTQ.skm",
       "name": "MS LUX529 MTQ",
       "type": "material",
-      "size": 822999,
-      "modified": "2026-07-02",
-      "hash": "241375c64af1648a837dbc7e69ea2ad3"
+      "size": 822996,
+      "modified": "2026-07-03",
+      "hash": "f94c034be6c6d857490abf7ea46cebba"
     },
     {
       "path": "1. Kitchen/4. Materials/MS LUX530 MTQ.skm",
       "name": "MS LUX530 MTQ",
       "type": "material",
-      "size": 783461,
-      "modified": "2026-07-02",
-      "hash": "81e0b462b861fa3c436ddd0b55dfae47"
+      "size": 783458,
+      "modified": "2026-07-03",
+      "hash": "22dd7ac186ece98584597501bbfabedd"
     },
     {
       "path": "1. Kitchen/4. Materials/MS LUX531 MTQ.skm",
       "name": "MS LUX531 MTQ",
       "type": "material",
       "size": 900794,
-      "modified": "2026-07-02",
-      "hash": "d81384fed8ffb06f968742c8b368fd92"
+      "modified": "2026-07-03",
+      "hash": "946cf2714f596dcd1a0ab8467f7d72f0"
     },
     {
       "path": "1. Kitchen/4. Materials/MS LUX532 MTQ.skm",
       "name": "MS LUX532 MTQ",
       "type": "material",
-      "size": 800327,
-      "modified": "2026-07-02",
-      "hash": "761cdcce87fbb1898f61cbbda8ef8582"
+      "size": 800324,
+      "modified": "2026-07-03",
+      "hash": "151b5415a3eb403487d18b8d5a087fa7"
     },
     {
       "path": "1. Kitchen/4. Materials/MS LUX533 MTQ.skm",
       "name": "MS LUX533 MTQ",
       "type": "material",
-      "size": 883259,
-      "modified": "2026-07-02",
-      "hash": "71252d3c745c0e1074a9ddaaef758757"
+      "size": 883256,
+      "modified": "2026-07-03",
+      "hash": "cbba434017b5611fe187c77169badb62"
     },
     {
       "path": "1. Kitchen/4. Materials/MS LUX534 MTQ.skm",
       "name": "MS LUX534 MTQ",
       "type": "material",
-      "size": 841267,
-      "modified": "2026-07-02",
-      "hash": "ee38d4696505947cc6b25763bd8eedd3"
+      "size": 841264,
+      "modified": "2026-07-03",
+      "hash": "a14793c07365169d526bf9ba5e9b3cb0"
     },
     {
       "path": "1. Kitchen/4. Materials/Melamine 0102 TA.skm",
       "name": "Melamine 0102 TA",
       "type": "material",
-      "size": 3021,
-      "modified": "2026-07-02",
-      "hash": "37745d239f9cb38ed2b487663ac84a0a"
+      "size": 2578,
+      "modified": "2026-07-03",
+      "hash": "a8890a85ac04386f575f96b325a4ba06"
     },
     {
       "path": "1. Kitchen/4. Materials/Melamine 0126 TA.skm",
       "name": "Melamine 0126 TA",
       "type": "material",
-      "size": 2793,
-      "modified": "2026-07-02",
-      "hash": "5bb9385b1fda15dcaf02e519bec8771e"
+      "size": 2581,
+      "modified": "2026-07-03",
+      "hash": "eef32163e3b939a460e8f820e8927706"
     },
     {
       "path": "2. 2D Graphic/2D-Furniture/2d_3 Seat sofa basic L.skp",
