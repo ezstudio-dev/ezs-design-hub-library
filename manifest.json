@@ -1,14 +1,14 @@
 {
-  "version": "2.3.24",
-  "lastUpdated": "2026-08-14T22:24:39Z",
-  "totalFiles": 374,
-  "totalSize": "155.11 MB",
-  "totalSizeBytes": 162642974,
+  "version": "2.3.25",
+  "lastUpdated": "2026-08-14T22:33:33Z",
+  "totalFiles": 371,
+  "totalSize": "147.44 MB",
+  "totalSizeBytes": 154604242,
   "categories": [
     {
       "name": "1. Kitchen",
       "path": "1. Kitchen",
-      "fileCount": 183,
+      "fileCount": 180,
       "lastModified": "2026-07-02",
       "categories": [
         {
@@ -20,13 +20,13 @@
         {
           "name": "2. Upper Cabinet",
           "path": "1. Kitchen/2. Upper Cabinet",
-          "fileCount": 51,
+          "fileCount": 49,
           "lastModified": "2026-08-14"
         },
         {
           "name": "3. High Cabinet",
           "path": "1. Kitchen/3. High Cabinet",
-          "fileCount": 34,
+          "fileCount": 33,
           "lastModified": "2026-08-14"
         },
         {
@@ -316,9 +316,9 @@
       "path": "1. Kitchen/1. Base Cabinet/Base Filler.skp",
       "name": "Base Filler",
       "type": "component",
-      "size": 129575,
-      "modified": "2026-07-31",
-      "hash": "1287a7c54ac12860415afda37e22ca7f",
+      "size": 123060,
+      "modified": "2026-08-14",
+      "hash": "75ecc7286c8518c6b9646582439d2739",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Base Filler.png"
     },
     {
@@ -520,26 +520,26 @@
       "path": "1. Kitchen/1. Base Cabinet/End Panel.skp",
       "name": "End Panel",
       "type": "component",
-      "size": 171526,
-      "modified": "2026-07-31",
-      "hash": "c60e9bd97d3d6fc0a545beb5f6b478a3",
+      "size": 168700,
+      "modified": "2026-08-14",
+      "hash": "9f12aaf50f57e129fcb4f491dc9e9f25",
       "thumbnail": "1. Kitchen/1. Base Cabinet/End Panel.png"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Mouding.skp",
       "name": "Mouding",
       "type": "component",
-      "size": 536988,
-      "modified": "2026-07-31",
-      "hash": "10f8aa055c85da0bd66ff27f455b3810"
+      "size": 536893,
+      "modified": "2026-08-14",
+      "hash": "c075894314e29fabe778e42cd996a442"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Shelf.skp",
       "name": "Shelf",
       "type": "component",
-      "size": 453572,
-      "modified": "2026-07-31",
-      "hash": "62495bdcce20dfcf467a575857a30643"
+      "size": 453932,
+      "modified": "2026-08-14",
+      "hash": "3481e5c81270549b4219d58ae178eec1"
     },
     {
       "path": "1. Kitchen/1. Base Cabinet/Stone.PNG",
@@ -553,18 +553,10 @@
       "path": "1. Kitchen/1. Base Cabinet/Stone.skp",
       "name": "Stone",
       "type": "component",
-      "size": 161261,
-      "modified": "2026-07-31",
-      "hash": "b85a132a44faec145d2d4555390f3ee9",
-      "thumbnail": "1. Kitchen/1. Base Cabinet/Stone.png"
-    },
-    {
-      "path": "1. Kitchen/2. Upper Cabinet/Base Hob Drawer Double.skp",
-      "name": "Base Hob Drawer Double",
-      "type": "component",
-      "size": 1441279,
+      "size": 161733,
       "modified": "2026-08-14",
-      "hash": "140bb3ab34f4aeac7c6ca8756e37592b"
+      "hash": "99068694beb0646c5c40997989bcbcff",
+      "thumbnail": "1. Kitchen/1. Base Cabinet/Stone.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/End Panel Decor.png",
@@ -828,15 +820,6 @@
       "size": 21738,
       "modified": "2026-07-21",
       "hash": "e5ed7b77f0079d295b379a1da72c8540"
-    },
-    {
-      "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Display.skp",
-      "name": "Upper Lift Display",
-      "type": "component",
-      "size": 5785141,
-      "modified": "2026-07-21",
-      "hash": "de686ce7cee08d5d956f453321ba6551",
-      "thumbnail": "1. Kitchen/2. Upper Cabinet/Upper Lift Display.png"
     },
     {
       "path": "1. Kitchen/2. Upper Cabinet/Upper Lift Double Dish Rack.png",
@@ -1224,9 +1207,9 @@
       "path": "1. Kitchen/3. High Cabinet/Mouding.skp",
       "name": "Mouding",
       "type": "component",
-      "size": 545644,
-      "modified": "2026-07-21",
-      "hash": "9189832f5fa5afa7dc632be6b04f10c9",
+      "size": 536889,
+      "modified": "2026-08-14",
+      "hash": "4d0282b53f4d3019024a18933cd4c880",
       "thumbnail": "1. Kitchen/3. High Cabinet/Mouding.png"
     },
     {
@@ -1270,15 +1253,6 @@
       "size": 13358,
       "modified": "2026-07-21",
       "hash": "08331d9c8da6d3e47d6d23d4239e750e"
-    },
-    {
-      "path": "1. Kitchen/3. High Cabinet/Upper Door.skp",
-      "name": "Upper Door",
-      "type": "component",
-      "size": 794953,
-      "modified": "2026-07-21",
-      "hash": "e0f4370ce1dd11c78e7d9cb303d6f842",
-      "thumbnail": "1. Kitchen/3. High Cabinet/Upper Door.png"
     },
     {
       "path": "1. Kitchen/4. Materials/BQ200.skm",
