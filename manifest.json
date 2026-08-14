@@ -1,9 +1,9 @@
 {
-  "version": "2.3.25",
-  "lastUpdated": "2026-08-14T22:33:33Z",
+  "version": "2.3.26",
+  "lastUpdated": "2026-08-14T22:55:48Z",
   "totalFiles": 371,
   "totalSize": "147.44 MB",
-  "totalSizeBytes": 154604242,
+  "totalSizeBytes": 154606867,
   "categories": [
     {
       "name": "1. Kitchen",
@@ -553,9 +553,9 @@
       "path": "1. Kitchen/1. Base Cabinet/Stone.skp",
       "name": "Stone",
       "type": "component",
-      "size": 161733,
+      "size": 164358,
       "modified": "2026-08-14",
-      "hash": "99068694beb0646c5c40997989bcbcff",
+      "hash": "367eec2156c5a9a3353b34c2a237e670",
       "thumbnail": "1. Kitchen/1. Base Cabinet/Stone.png"
     },
     {
