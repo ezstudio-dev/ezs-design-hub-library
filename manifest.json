@@ -1,9 +1,9 @@
 {
-  "version": "2.3.26",
-  "lastUpdated": "2026-08-14T22:55:48Z",
-  "totalFiles": 371,
-  "totalSize": "147.44 MB",
-  "totalSizeBytes": 154606867,
+  "version": "2.3.27",
+  "lastUpdated": "2026-10-27T21:57:04Z",
+  "totalFiles": 392,
+  "totalSize": "151.32 MB",
+  "totalSizeBytes": 158670504,
   "categories": [
     {
       "name": "1. Kitchen",
@@ -154,14 +154,14 @@
     {
       "name": "5. Proposal",
       "path": "5. Proposal",
-      "fileCount": 18,
-      "lastModified": "2026-07-22",
+      "fileCount": 39,
+      "lastModified": "2026-10-27",
       "categories": [
         {
           "name": "Brand Prorfile",
           "path": "5. Proposal/Brand Prorfile",
-          "fileCount": 3,
-          "lastModified": "2026-07-22"
+          "fileCount": 4,
+          "lastModified": "2026-10-22"
         },
         {
           "name": "Collection",
@@ -172,14 +172,20 @@
         {
           "name": "Details",
           "path": "5. Proposal/Details",
-          "fileCount": 7,
-          "lastModified": "2026-07-22"
+          "fileCount": 8,
+          "lastModified": "2026-10-16"
+        },
+        {
+          "name": "Function",
+          "path": "5. Proposal/Function",
+          "fileCount": 17,
+          "lastModified": "2026-10-27"
         },
         {
           "name": "Hardware",
           "path": "5. Proposal/Hardware",
-          "fileCount": 4,
-          "lastModified": "2026-07-22"
+          "fileCount": 6,
+          "lastModified": "2026-10-16"
         }
       ]
     }
@@ -3058,25 +3064,33 @@
       "path": "5. Proposal/Brand Prorfile/E1 Certificate.png",
       "name": "E1 Certificate",
       "type": "asset",
-      "size": 143743,
-      "modified": "2026-07-22",
-      "hash": "4efcfc70f1410ad58cc236838f80cb38"
+      "size": 166051,
+      "modified": "2026-10-19",
+      "hash": "4fdae7d9949465fcdd3e515a6a115a2d"
+    },
+    {
+      "path": "5. Proposal/Brand Prorfile/GreenGuard Certificate.png",
+      "name": "GreenGuard Certificate",
+      "type": "asset",
+      "size": 117852,
+      "modified": "2026-10-22",
+      "hash": "4e5f2278588bb585851842cfced73cdd"
+    },
+    {
+      "path": "5. Proposal/Brand Prorfile/LGA Quality Certificate.png",
+      "name": "LGA Quality Certificate",
+      "type": "asset",
+      "size": 140864,
+      "modified": "2026-10-22",
+      "hash": "c420e4ab791fec24d17f9c8ab5a5bee0"
     },
     {
       "path": "5. Proposal/Brand Prorfile/Non Toxic Certificate.png",
       "name": "Non Toxic Certificate",
       "type": "asset",
-      "size": 166187,
-      "modified": "2026-07-22",
-      "hash": "f8c74aa44d74143d48579b5c0fff23a2"
-    },
-    {
-      "path": "5. Proposal/Brand Prorfile/Our process.png",
-      "name": "Our process",
-      "type": "asset",
-      "size": 146070,
-      "modified": "2026-07-22",
-      "hash": "5db324fd8ad24cefe2c43a2b208646d2"
+      "size": 181586,
+      "modified": "2026-10-19",
+      "hash": "eace571a78939058d3a1e630b592d950"
     },
     {
       "path": "5. Proposal/Collection/Cube.png",
@@ -3135,6 +3149,14 @@
       "hash": "4e5a8e74fcf4f349a7e4fcb7eceff729"
     },
     {
+      "path": "5. Proposal/Details/Push On.jpeg",
+      "name": "Push On",
+      "type": "asset",
+      "size": 13576,
+      "modified": "2026-10-16",
+      "hash": "1adfc5cf23dc57b0808791d1de70e73b"
+    },
+    {
       "path": "5. Proposal/Details/Recessed Handle.png",
       "name": "Recessed Handle",
       "type": "asset",
@@ -3159,12 +3181,156 @@
       "hash": "5d11f1081f86f1b1ac777ee904ec7f75"
     },
     {
-      "path": "5. Proposal/Details/Slab Melamin.png",
-      "name": "Slab Melamin",
+      "path": "5. Proposal/Details/Slab Melamine.png",
+      "name": "Slab Melamine",
       "type": "asset",
       "size": 285636,
       "modified": "2026-07-22",
       "hash": "5d11f1081f86f1b1ac777ee904ec7f75"
+    },
+    {
+      "path": "5. Proposal/Function/EKB-AL.png",
+      "name": "EKB-AL",
+      "type": "asset",
+      "size": 296156,
+      "modified": "2026-10-20",
+      "hash": "790e100580fe15cd31b61a952e79d25e"
+    },
+    {
+      "path": "5. Proposal/Function/EKB-AR.png",
+      "name": "EKB-AR",
+      "type": "asset",
+      "size": 462854,
+      "modified": "2026-10-20",
+      "hash": "7396d29d4028d990d7cdcd2512033062"
+    },
+    {
+      "path": "5. Proposal/Function/EKB-BI.png",
+      "name": "EKB-BI",
+      "type": "asset",
+      "size": 371493,
+      "modified": "2026-10-20",
+      "hash": "8c882b44b153a8f56e1bb90e0ddb2ba5"
+    },
+    {
+      "path": "5. Proposal/Function/EKB-ML.png",
+      "name": "EKB-ML",
+      "type": "asset",
+      "size": 283389,
+      "modified": "2026-10-20",
+      "hash": "112b0087817609740d3a5a1c4d8d1308"
+    },
+    {
+      "path": "5. Proposal/Function/EKB-MR.png",
+      "name": "EKB-MR",
+      "type": "asset",
+      "size": 241759,
+      "modified": "2026-10-20",
+      "hash": "18487b35443db7786adb4468283d72ac"
+    },
+    {
+      "path": "5. Proposal/Function/EKB-RD.png",
+      "name": "EKB-RD",
+      "type": "asset",
+      "size": 255958,
+      "modified": "2026-10-20",
+      "hash": "99ace586a59390aaba85bb37464b9c2b"
+    },
+    {
+      "path": "5. Proposal/Function/EKB-RI.png",
+      "name": "EKB-RI",
+      "type": "asset",
+      "size": 247549,
+      "modified": "2026-10-20",
+      "hash": "edaf8b183834562bf5a05cea0ec4148e"
+    },
+    {
+      "path": "5. Proposal/Function/EKB-RM.png",
+      "name": "EKB-RM",
+      "type": "asset",
+      "size": 214165,
+      "modified": "2026-10-20",
+      "hash": "77d268c430a15040ecf3294dce3e7056"
+    },
+    {
+      "path": "5. Proposal/Function/EKB-RN.png",
+      "name": "EKB-RN",
+      "type": "asset",
+      "size": 214165,
+      "modified": "2026-10-20",
+      "hash": "77d268c430a15040ecf3294dce3e7056"
+    },
+    {
+      "path": "5. Proposal/Function/EKB-RT.png",
+      "name": "EKB-RT",
+      "type": "asset",
+      "size": 255958,
+      "modified": "2026-10-20",
+      "hash": "99ace586a59390aaba85bb37464b9c2b"
+    },
+    {
+      "path": "5. Proposal/Function/EKBR-BI.png",
+      "name": "EKBR-BI",
+      "type": "asset",
+      "size": 261544,
+      "modified": "2026-10-27",
+      "hash": "e03c3ab7ac2047a559b5ebc0353a4ab3"
+    },
+    {
+      "path": "5. Proposal/Function/EKUD-DL.png",
+      "name": "EKUD-DL",
+      "type": "asset",
+      "size": 186830,
+      "modified": "2026-10-20",
+      "hash": "dbd0c2f0f92d2d4d4e0636c62d6e7438"
+    },
+    {
+      "path": "5. Proposal/Function/EKUD-DN.png",
+      "name": "EKUD-DN",
+      "type": "asset",
+      "size": 186830,
+      "modified": "2026-10-20",
+      "hash": "dbd0c2f0f92d2d4d4e0636c62d6e7438"
+    },
+    {
+      "path": "5. Proposal/Function/EKUD-DR.png",
+      "name": "EKUD-DR",
+      "type": "asset",
+      "size": 186830,
+      "modified": "2026-10-20",
+      "hash": "dbd0c2f0f92d2d4d4e0636c62d6e7438"
+    },
+    {
+      "path": "5. Proposal/Function/EKUG-DL.png",
+      "name": "EKUG-DL",
+      "type": "asset",
+      "size": 24765,
+      "modified": "2026-10-27",
+      "hash": "e4dd32379bacd12d11f190eb4d4accdf"
+    },
+    {
+      "path": "5. Proposal/Function/EKUG-DN.png",
+      "name": "EKUG-DN",
+      "type": "asset",
+      "size": 24765,
+      "modified": "2026-10-27",
+      "hash": "e4dd32379bacd12d11f190eb4d4accdf"
+    },
+    {
+      "path": "5. Proposal/Function/EKUG-DR.png",
+      "name": "EKUG-DR",
+      "type": "asset",
+      "size": 24765,
+      "modified": "2026-10-27",
+      "hash": "e4dd32379bacd12d11f190eb4d4accdf"
+    },
+    {
+      "path": "5. Proposal/Hardware/Blum Aventos.jpg",
+      "name": "Blum Aventos",
+      "type": "asset",
+      "size": 14847,
+      "modified": "2026-10-16",
+      "hash": "fc6169ac3f07ff4da20652c9a664c381"
     },
     {
       "path": "5. Proposal/Hardware/Blum CLIP top.png",
@@ -3181,6 +3347,14 @@
       "size": 643942,
       "modified": "2026-07-22",
       "hash": "01becca7c52a0aadbc15fde2d0a73cd6"
+    },
+    {
+      "path": "5. Proposal/Hardware/Hettich Innotech Atira.png",
+      "name": "Hettich Innotech Atira",
+      "type": "asset",
+      "size": 145086,
+      "modified": "2026-07-22",
+      "hash": "de2beb45b945f0058511e4cdc961c068"
     },
     {
       "path": "5. Proposal/Hardware/Hettich Quadro V6.png",
